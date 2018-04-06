@@ -1,0 +1,16 @@
+C:\Users\Krystian\Desktop\_CS\New\Games\Games\bin\Release\Games.exe.config
+C:\Users\Krystian\Desktop\_CS\New\Games\Games\bin\Release\Games.exe
+C:\Users\Krystian\Desktop\_CS\New\Games\Games\bin\Release\Games.pdb
+C:\Users\Krystian\Desktop\_CS\New\Games\Games\bin\Release\Games.xml
+C:\Users\Krystian\Desktop\_CS\New\Games\Games\obj\Release\Games.Resources.resources
+C:\Users\Krystian\Desktop\_CS\New\Games\Games\obj\Release\Games.Start.resources
+C:\Users\Krystian\Desktop\_CS\New\Games\Games\obj\Release\Games.vbproj.GenerateResource.cache
+C:\Users\Krystian\Desktop\_CS\New\Games\Games\obj\Release\Games.vbproj.CoreCompileInputs.cache
+C:\Users\Krystian\Desktop\_CS\New\Games\Games\obj\Release\Games.exe
+C:\Users\Krystian\Desktop\_CS\New\Games\Games\obj\Release\Games.xml
+C:\Users\Krystian\Desktop\_CS\New\Games\Games\obj\Release\Games.pdb
+C:\Users\Krystian\Desktop\_CS\New\Games\Games\obj\Release\Interop.Microsoft.Office.Interop.Access.Dao.dll
+C:\Users\Krystian\Desktop\_CS\New\Games\Games\obj\Release\Games.vbproj.ResolveComReference.cache
+C:\Users\Krystian\Desktop\_CS\New\Games\Games\obj\Release\Games.vbprojResolveAssemblyReference.cache
+C:\Users\Krystian\Desktop\_CS\New\Games\Games\obj\Release\Games.LoginRegister.resources
+C:\Users\Krystian\Desktop\_CS\New\Games\Games\obj\Release\Games.RegisterForm.resources
